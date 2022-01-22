@@ -45,7 +45,8 @@ footer {
 }
 
 .col-logo img {
-    width: 20px;
+    width: 20%;
+    margin:center;
 }
 
 .col-logo h2 {
