@@ -45,6 +45,7 @@ footer {
 }
 
 .col-logo img {
+    border:0;
     max-width: 1000px;
     
 }
