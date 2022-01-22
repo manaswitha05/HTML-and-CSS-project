@@ -45,7 +45,8 @@ footer {
 }
 
 .col-logo img {
-    max-width:500px;
+    left: 100%;
+    max-width: 500px;
 
     
 }
