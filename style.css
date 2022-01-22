@@ -46,8 +46,7 @@ footer {
 
 .col-logo img {
     width:100px;
-    
-    margin:-28px;
+    cursor:pointer;
     
 }
 
